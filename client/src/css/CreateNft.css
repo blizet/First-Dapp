@@ -1,0 +1,124 @@
+
+.fixed_top{
+    
+    width: 60%;
+    padding: 20px;
+background-color: rgb(16, 0, 67);
+border-radius: 10px;
+border: 2px solid white;
+text-align: center;
+
+position: absolute;
+margin-left: 20%;
+
+}
+
+.close{
+    width: 50px;
+    height: 50px;
+   margin-left: 95%;
+   background-color: transparent;
+   border: none;
+  cursor: pointer;
+}
+#close{
+    width: 30px;
+    height: 30px;
+    padding-right: 10px;
+}
+.createNft h4{
+    color: white;
+    font-size: 30px;
+}
+
+
+
+.createNft span{
+    display: none;
+}
+
+.createNft .try{
+    margin: 10px 5px 0px;
+    width: 100%;
+    font-size: 20px;
+    font-weight: 100;
+    border: 0.5px solid black;
+    border-radius: 5px;
+    color: rgb(126, 126, 126);
+    background-color: rgba(186, 186, 186, 0.143);
+}
+.createNft .title{
+    width: 98%;
+    padding: 3px;
+    padding-left: 5px;
+    color: white;
+    font-size: 20px;
+    height: 25px;
+    margin: 10px 5px 0px;
+    border: 0.5px solid black;
+    border-radius: 5px;
+    background-color: rgba(186, 186, 186, 0.143);
+}
+.fixed_top h1{
+    font-size: 30px;
+    color: white;
+    padding-bottom: 10px;
+    
+}
+
+.hero{
+    width: 200px;
+    height: auto;
+   
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+
+#chunk{
+    padding:10px 80px;
+}
+.chunk{
+    
+   margin-left: 20px;
+    width: 350px;
+    height: 40px;
+    font-size: 20px;
+   border: 1px solid black;
+   border-radius: 50px;
+   
+}
+
+.chunk:hover{
+    background-color: rgb(47, 47, 96);
+    color: white;
+    border: 2px solid rgb(255, 255, 255);
+}
+.fixed_top .text{
+    margin-left: 250px;
+    margin-top: 30px;
+    background-color: rgba(143, 143, 143, 0.241);
+    width: 445px;
+}
+.fixed_top .flex h4{
+    align-items: center;
+    padding: 10px;
+    margin-left: 100px;
+}
+.fixed_top .flex small{
+    align-items: center;
+    padding: 10px;
+    margin-left: 80px;
+}
+h4{
+    color: white;
+    font-size: 20px;
+}
+
+small{
+    color: white;
+    font-size: 15px;
+    
+}

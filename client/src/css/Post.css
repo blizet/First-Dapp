@@ -1,0 +1,14 @@
+.Post{
+    padding: 10px 20px;
+}
+
+.post_img{
+    width: 280px;
+    height: 300px;
+   
+}
+
+#post_img{
+    width: 280px;
+    height: 300px;
+}
